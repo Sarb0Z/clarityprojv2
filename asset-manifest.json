@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/clarityprojv2/static/css/main.dfc14366.css",
+    "main.js": "/clarityprojv2/static/js/main.3a4270fa.js",
+    "static/media/logo.png": "/clarityprojv2/static/media/logo.7c02ecb4d8eb08165a50.png",
+    "index.html": "/clarityprojv2/index.html",
+    "main.dfc14366.css.map": "/clarityprojv2/static/css/main.dfc14366.css.map",
+    "main.3a4270fa.js.map": "/clarityprojv2/static/js/main.3a4270fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc14366.css",
+    "static/js/main.3a4270fa.js"
+  ]
+}
